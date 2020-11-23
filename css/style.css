@@ -1,0 +1,25 @@
+@charaset "UTF-8";
+
+.top{
+  background-image: url(../img/main-vsual-nontitle.png);
+  background-size: cover;
+}
+.card-text{
+  line-height: 1.7;
+  font-size: large;
+}
+.course,.course .card-body{
+  background-color: #AFEEDB;
+}
+.card{
+  border:none
+}
+.form-control{
+  width: 60%;
+  margin: auto;
+  border-radius: 60px;
+}
+.btn{
+  display: block;
+  margin: auto;
+}
